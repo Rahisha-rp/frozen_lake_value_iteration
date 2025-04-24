@@ -1,0 +1,11 @@
+Algorithm
+The code implements:
+
+Value iteration to compute optimal state values
+
+Policy extraction from the value function
+
+Simulation of the optimal policy
+
+Results
+The optimal policy is displayed as a 4x4 grid matching the FrozenLake environment layout.
